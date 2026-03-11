@@ -1,4 +1,6 @@
-﻿namespace taskmanager_api_dotnet.Models
+﻿using System.Text.Json.Serialization;
+
+namespace taskmanager_api_dotnet.Models
 {
     public class TaskItem
     {
